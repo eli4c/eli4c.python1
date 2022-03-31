@@ -6,4 +6,9 @@ Created on Thu Mar 31 15:45:29 2022
 @author: erika_ishizuka
 """
 
+<<<<<<< HEAD
 print('test')
+=======
+print('test')
+print('hello erika')
+>>>>>>> d3ca0ff4b46435390884e4c52550ef638c7377b6
